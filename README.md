@@ -1,7 +1,7 @@
 <h1 align="left">Olá, me chamo Felipe</h1>
 <h3 align="left">Sou um entusiasta em Ciência de Dados e Inteligência Artificial</h3>
 
-- 🔭 Atualmente trabalho na São Paulo Turismo: [spturis.com](spturis.com)
+- 🔭 Atualmente trabalho no Sindusfarma como **Estagiário de Inteligência de Mercado**: [sindusfarma.org.br](sindusfarma.org.br)
 
 - 📔 Estou me graduando em **Ciência de Dados e Inteligência Artificial** pela PUC-SP
 
