@@ -1,7 +1,7 @@
 <h1 align="left">Olá, me chamo Felipe</h1>
 <h3 align="left">Sou um entusiasta em Ciência de Dados e Inteligência Artificial</h3>
 
-- 🔭 Atualmente trabalho no [Sindusfarma](https://sindusfarma.org.br/) como **Estagiário de Inteligência de Mercado**: https://sindusfarma.org.br/
+- 🔭 Atualmente trabalho no [Sindusfarma](https://sindusfarma.org.br/) como **Estagiário de Inteligência de Mercado**
 
 - 📔 Estou me graduando em **Ciência de Dados e Inteligência Artificial** pela PUC-SP
 
