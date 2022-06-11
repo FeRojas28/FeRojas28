@@ -1,17 +1,17 @@
 <h1 align="left">Olá, me chamo Felipe</h1>
 <h3 align="left">Sou um entusiasta em Ciência de Dados e Inteligência Artificial</h3>
 
-- 🔭 Atualmente trabalho no Sindusfarma como **Estagiário de Inteligência de Mercado**: https://sindusfarma.org.br/
+- 🔭 Atualmente trabalho no [Sindusfarma](https://sindusfarma.org.br/) como **Estagiário de Inteligência de Mercado**: https://sindusfarma.org.br/
 
 - 📔 Estou me graduando em **Ciência de Dados e Inteligência Artificial** pela PUC-SP
 
 - 🌱 Gosto de trabalhar com **análise de dados, machine learning e elaboração de dashboards**
 
-- 💬 Conecte-se comigo no LinkedIn: [linkedin.com/in/felipe-fernandes-rojas](linkedin.com/in/felipe-fernandes-rojas)
+- 💬 Conecte-se comigo no LinkedIn: https://www.linkedin.com/in/felipe-fernandes-rojas/
 
-- 💬 Conecte-se comigo no Kaggle: [https://kaggle.com/feliperojas28](https://kaggle.com/feliperojas28)
+- 💬 Conecte-se comigo no Kaggle: https://kaggle.com/feliperojas28
 
-- 👨‍💻 Meus projetos estão disponíveis em: [https://github.com/FeRojas28](https://github.com/FeRojas28)
+- 👨‍💻 Meus projetos estão disponíveis em: https://github.com/FeRojas28
 
 - 📫 Entre em contato comigo por e-mail: **felipe.2803@hotmail.com**
 
