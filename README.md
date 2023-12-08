@@ -1,9 +1,8 @@
 <h1 align="left">Olá, me chamo Felipe</h1>
-<h3 align="left">Sou um cientista de dados em formação.</h3>
 
-- 🔭 Atualmente trabalho no [Sindusfarma](https://sindusfarma.org.br/) como **Estagiário de Inteligência de Mercado**
+- 🔭 Atualmente trabalho no [Sindusfarma](https://sindusfarma.org.br/) como **Analista de BI**
 
-- 📔 Estou me graduando em **Ciência de Dados e Inteligência Artificial** pela PUC-SP
+- 📔 Sou graduado em **Ciência de Dados e Inteligência Artificial** pela PUC-SP
 
 - 🌱 Gosto de trabalhar com **análise de dados, machine learning e elaboração de dashboards**
 
